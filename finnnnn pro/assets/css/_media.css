@@ -1,0 +1,409 @@
+@media (max-width: 2560px) and (min-width: 1441px) {
+  /*header*/
+  header h3 {
+    font-weight: 700;
+    width: 50%;
+    font-size: 50px;
+  }
+  /*****************/
+  /*banner*/
+  .banners .row .contain {
+    display: flex;
+    flex-direction: column;
+    color: var(--light-color);
+    font-weight: 700;
+    margin-left: 300px;
+  }
+}
+@media (max-width: 1440px) and (min-width: 1201px) {
+  /*header*/
+  header h3 {
+    font-weight: 700;
+    width: 50%;
+    font-size: 60px;
+  }
+  /*****************/
+  /*banner*/
+  .banners .row .contain {
+    display: flex;
+    flex-direction: column;
+    color: var(--light-color);
+    font-weight: 700;
+    margin-left: 350px;
+  }
+  .banners .row .contain h3 {
+    font-size: 17px;
+  }
+}
+@media (max-width: 1200px) and (min-width: 1025px) {
+  /*header*/
+  header h3 {
+    font-weight: 700;
+    width: 50%;
+    font-size: 50px;
+  }
+  /*****************/
+  /*banner*/
+  .banners .row .contain {
+    display: flex;
+    flex-direction: column;
+    color: var(--light-color);
+    font-weight: 700;
+    margin-left: 250px;
+  }
+  .banners .row .contain h3 {
+    font-size: 15px;
+  }
+  .banners .row .contain .vb button {
+    color: var(--dark-color);
+    background-color: var(--light-color);
+    border-style: none;
+    border-radius: 15px;
+    font-size: 11px;
+    font-weight: 900;
+    padding: 5px 7px;
+  }
+  /*****************/
+  /*sub*/
+  .sub .contain .row h2 {
+    font-size: 23px;
+    font-weight: 500;
+  }
+}
+@media (max-width: 1024px) and (min-width: 993px) {
+  /*header*/
+  header h3 {
+    font-weight: 700;
+    width: 50%;
+    font-size: 45px;
+    padding: 0 30px;
+  }
+  header .box {
+    padding: 0 30px;
+  }
+  /*****************/
+  /*sub*/
+  .sub .contain .row h2 {
+    font-size: 22px;
+    font-weight: 500;
+  }
+}
+@media (max-width: 992px) and (min-width: 769px) {
+  /*header*/
+  header h3 {
+    font-weight: 700;
+    width: 70%;
+    font-size: 45px;
+    padding: 0 30px;
+  }
+  header .box {
+    padding: 0 30px;
+  }
+  /*****************/
+  /*banner*/
+  .banners .row .contain {
+    display: flex;
+    flex-direction: column;
+    color: var(--light-color);
+    font-weight: 700;
+    margin-left: 400px;
+  }
+  .banners .row .contain h3 {
+    font-size: 17px;
+  }
+  .banners .row .contain .vb button {
+    color: var(--dark-color);
+    background-color: var(--light-color);
+    border-style: none;
+    border-radius: 15px;
+    font-size: 11px;
+    font-weight: 900;
+    padding: 5px 10px;
+  }
+  /*****************/
+  /*sub*/
+  .sub .contain .row h2 {
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 35px;
+  }
+  /*****************/
+  /*eshop*/
+  .eshop .row .first p {
+    font-size: 20px;
+  }
+  .eshop .row .second h5 {
+    text-transform: capitalize;
+    font-weight: 700;
+    font-size: 15px;
+    margin-top: 50px;
+  }
+}
+@media (max-width: 768px) and (min-width: 577px) {
+  /*header*/
+  header h3 {
+    font-weight: 700;
+    width: 90%;
+    font-size: 40px;
+    padding: 0 30px;
+  }
+  header .box {
+    padding: 0 30px;
+  }
+  /*****************/
+  /*banner*/
+  .banners .row .contain {
+    display: flex;
+    flex-direction: column;
+    color: var(--light-color);
+    font-weight: 700;
+    margin-left: 300px;
+  }
+  .banners .row .contain h3 {
+    font-size: 17px;
+  }
+  .banners .row .contain .vb button {
+    color: var(--dark-color);
+    background-color: var(--light-color);
+    border-style: none;
+    border-radius: 15px;
+    font-size: 11px;
+    font-weight: 900;
+    padding: 5px 10px;
+  }
+  /*****************/
+  /*sub*/
+  .sub .contain .row h2 {
+    font-size: 18px;
+    font-weight: 500;
+  }
+  /******************/
+  /*eshop*/
+  .eshop .row .first p {
+    font-size: 15px;
+  }
+  .eshop .row .second h5 {
+    text-transform: capitalize;
+    font-weight: 700;
+    font-size: 10px;
+    margin-top: 50px;
+  }
+  .tittles h6 {
+    font-size: 3px;
+  }
+}
+@media (max-width: 576px) and (min-width: 426px) {
+  /*header*/
+  header h3 {
+    font-weight: 700;
+    width: 100%;
+    font-size: 43px;
+    padding: 0 25px;
+  }
+  header .box {
+    padding: 0 25px;
+  }
+  /*****************/
+  /*banner*/
+  .banners .row .contain {
+    display: flex;
+    flex-direction: column;
+    color: var(--light-color);
+    font-weight: 700;
+    margin-left: 250px;
+  }
+  .banners .row .contain h3 {
+    font-size: 11px;
+  }
+  .banners .row .contain .vb button {
+    color: var(--dark-color);
+    background-color: var(--light-color);
+    border-style: none;
+    border-radius: 15px;
+    font-size: 7px;
+    font-weight: 900;
+    padding: 5px 7px;
+  }
+  /*****************/
+  /*selected*/
+  .select .box h2 {
+    font-size: 25px;
+  }
+  .select .box button {
+    background-color: transparent;
+    padding: 5px 10px;
+    border-radius: 25px;
+    font-size: 12px;
+    border: 1px solid var(--gray-color);
+    font-weight: 900;
+  }
+  /*****************/
+  /*sub*/
+  .sub .contain .row h2 {
+    font-size: 15px;
+    font-weight: 500;
+  }
+  /******************/
+  /*eshop*/
+  .eshop .row .first p {
+    font-size: 15px;
+  }
+  .eshop .row .second h5 {
+    text-transform: capitalize;
+    font-weight: 700;
+    font-size: 7px;
+    margin-top: 50px;
+  }
+  .tittles h6 {
+    font-size: 3px;
+  }
+}
+@media (max-width: 425px) and (min-width: 376px) {
+  /*header*/
+  header h3 {
+    font-weight: 700;
+    width: 100%;
+    font-size: 35px;
+    padding: 0 20px;
+  }
+  header .box {
+    padding: 0 20px;
+  }
+  /*****************/
+  /*banner*/
+  .banners .row .contain {
+    display: flex;
+    flex-direction: column;
+    color: var(--light-color);
+    font-weight: 700;
+    margin-left: 200px;
+  }
+  .banners .row .contain h3 {
+    font-size: 11px;
+  }
+  .banners .row .contain .vb button {
+    color: var(--dark-color);
+    background-color: var(--light-color);
+    border-style: none;
+    border-radius: 15px;
+    font-size: 7px;
+    font-weight: 900;
+    padding: 5px 7px;
+  }
+  /*****************/
+  /*selected*/
+  .select .box h2 {
+    font-size: 18px;
+  }
+  .select .box button {
+    background-color: transparent;
+    padding: 5px 7px;
+    border-radius: 25px;
+    font-size: 7px;
+    border: 1px solid var(--gray-color);
+    font-weight: 900;
+  }
+  /*****************/
+  /*sub*/
+  .sub .contain .row h2 {
+    font-size: 12px;
+    font-weight: 500;
+  }
+  /******************/
+  /*eshop*/
+  .eshop .row .first p {
+    font-size: 15px;
+  }
+  .eshop .row .second h5 {
+    text-transform: capitalize;
+    font-weight: 700;
+    font-size: 7px;
+    margin-top: 50px;
+  }
+}
+@media (max-width: 375px) and (min-width: 321px) {
+  /*header*/
+  header h3 {
+    font-weight: 700;
+    width: 100%;
+    font-size: 25px;
+  }
+  /*****************/
+  /*banner*/
+  .banners .row .contain {
+    display: flex;
+    flex-direction: column;
+    color: var(--light-color);
+    font-weight: 700;
+    margin-left: 150px;
+  }
+  .banners .row .contain h3 {
+    font-size: 10px;
+  }
+  .banners .row .contain .vb button {
+    color: var(--dark-color);
+    background-color: var(--light-color);
+    border-style: none;
+    border-radius: 15px;
+    font-size: 7px;
+    font-weight: 900;
+    padding: 5px 5px;
+  }
+  /*****************/
+  /*selected*/
+  .select .box h2 {
+    font-size: 15px;
+  }
+  .select .box button {
+    background-color: transparent;
+    padding: 5px 7px;
+    border-radius: 25px;
+    font-size: 7px;
+    border: 1px solid var(--gray-color);
+    font-weight: 900;
+  }
+  /*****************/
+  /*sub*/
+  .sub .contain .row h2 {
+    font-size: 13px;
+    font-weight: 500;
+  }
+  .sub .contain .row form {
+    gap: 10px;
+    margin-top: 40px;
+  }
+  .sub .contain .row form input {
+    padding: 3px 7px;
+    border-style: none;
+    border-radius: 25px;
+  }
+  .sub .contain .row form button {
+    padding: 3px 7px;
+    border-style: none;
+    border-radius: 25px;
+    text-transform: uppercase;
+    font-size: 7px;
+    font-weight: 700;
+  }
+    /******************/
+  /*eshop*/
+  .eshop .row .first p {
+    font-size: 10px;
+  }
+  .eshop .row .second h5 {
+    text-transform: capitalize;
+    font-weight: 700;
+    font-size: 7px;
+    margin-top: 50px;
+  }
+}
+
+@media (max-width: 320px) and (min-width: 200px) {
+  /*header*/
+  header h3 {
+    font-weight: 700;
+    width: 100%;
+    font-size: 20px;
+    top: -60px;
+  }
+}
